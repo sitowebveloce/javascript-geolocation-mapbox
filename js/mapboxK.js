@@ -1,0 +1,1 @@
+mapboxgl.accessToken = 'mapbox-access-token-here';
